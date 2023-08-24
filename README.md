@@ -1,8 +1,10 @@
 # React To-Do List App
 
+Welcome to the React To-Do List App! This is a simple web application built using ReactJS that allows you to create, manage, and organize your tasks and to-do items. Keep track of your tasks easily and stay organized with this user-friendly app.
+
 ![App Screenshot](https://github.com/cosmic-ankit/To-Do-list-React-Js/blob/main/Screenshot%20(575).png)
 
-Welcome to the React To-Do List App! This is a simple web application built using ReactJS that allows you to create, manage, and organize your tasks and to-do items. Keep track of your tasks easily and stay organized with this user-friendly app.
+
 
 ## Features
 
